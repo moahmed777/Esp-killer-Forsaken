@@ -1,5 +1,4 @@
---سكربت esp ماب غميضه أو hide على قاتل تلقائي 8 مع تحديث تلقائي زر احترافي 
-وتحقق من ماب 
+--سكربت esp ماب غميضه أو hide على قاتل تلقائي 8 مع تحديث تلقائي زر احترافي
 local player = game.Players.LocalPlayer
 local screenGui = Instance.new("ScreenGui")
 screenGui.Parent = game:GetService("CoreGui")
